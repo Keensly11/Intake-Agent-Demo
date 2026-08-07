@@ -1,0 +1,13 @@
+LAB SAMPLE SUBMISSION FORM
+
+Sample ID: SMP-2026-00147
+Patient/Subject ID: PT-88213
+Collection Date: 2026-07-15
+Sample Type: Blood - Serum
+Storage Condition: Frozen (-20C)
+Priority: Routine
+Submitting Lab: Sharjah Central Diagnostics
+Ordering Physician: Dr. A. Rahman
+Tests Requested: Lipid Panel, CBC, Glucose Fasting
+
+Notes: Sample collected under standard fasting protocol.

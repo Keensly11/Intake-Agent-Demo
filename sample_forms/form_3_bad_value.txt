@@ -1,0 +1,13 @@
+LAB SAMPLE SUBMISSION FORM
+
+Sample ID: SMP-2026-00149
+Patient/Subject ID: PT-90045
+Collection Date: 07/2026
+Sample Type: Tissue Biopsy
+Storage Condition: Room Temp
+Priority: Whenever is fine
+Submitting Lab: Abu Dhabi Molecular Diagnostics
+Ordering Physician: Dr. S. Al Mheiri
+Tests Requested: Histopathology
+
+Notes: Collection date recorded incompletely (month/year only).

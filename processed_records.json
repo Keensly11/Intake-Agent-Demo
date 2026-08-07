@@ -1,0 +1,55 @@
+[
+  {
+    "filename": "form_1_clean.txt",
+    "status": "CLEAN",
+    "record": {
+      "sample_id": "SMP-2026-00147",
+      "patient_id": "PT-88213",
+      "collection_date": "2026-07-15",
+      "sample_type": "Blood - Serum",
+      "storage_condition": "Frozen (-20C)",
+      "priority": "Routine",
+      "submitting_lab": "Sharjah Central Diagnostics",
+      "ordering_physician": "Dr. A. Rahman",
+      "tests_requested": "Lipid Panel, CBC, Glucose Fasting"
+    },
+    "issues": []
+  },
+  {
+    "filename": "form_2_missing_field.txt",
+    "status": "NEEDS_REVIEW",
+    "record": {
+      "sample_id": "SMP-2026-00148",
+      "patient_id": "PT-77410",
+      "collection_date": "2026-07-16",
+      "sample_type": "Urine",
+      "storage_condition": "",
+      "priority": "Urgent",
+      "submitting_lab": "Dubai Reference Lab",
+      "ordering_physician": "Dr. K. Osei",
+      "tests_requested": "Urinalysis, Microalbumin"
+    },
+    "issues": [
+      "Missing required field: storage_condition"
+    ]
+  },
+  {
+    "filename": "form_3_bad_value.txt",
+    "status": "NEEDS_REVIEW",
+    "record": {
+      "sample_id": "SMP-2026-00149",
+      "patient_id": "PT-90045",
+      "collection_date": "07/2026",
+      "sample_type": "Tissue Biopsy",
+      "storage_condition": "Room Temp",
+      "priority": "Whenever is fine",
+      "submitting_lab": "Abu Dhabi Molecular Diagnostics",
+      "ordering_physician": "Dr. S. Al Mheiri",
+      "tests_requested": "Histopathology"
+    },
+    "issues": [
+      "Invalid or incomplete collection_date: '07/2026' (expected YYYY-MM-DD)",
+      "Invalid priority value: 'Whenever is fine' (expected Routine/Urgent/STAT)"
+    ]
+  }
+]

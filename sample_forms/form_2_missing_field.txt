@@ -1,0 +1,13 @@
+LAB SAMPLE SUBMISSION FORM
+
+Sample ID: SMP-2026-00148
+Patient/Subject ID: PT-77410
+Collection Date: 2026-07-16
+Sample Type: Urine
+Storage Condition:
+Priority: Urgent
+Submitting Lab: Dubai Reference Lab
+Ordering Physician: Dr. K. Osei
+Tests Requested: Urinalysis, Microalbumin
+
+Notes: Storage condition was not recorded at time of submission.
